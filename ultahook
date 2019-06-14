@@ -1,0 +1,5 @@
+gem install ultrahook
+$ ultrahook stripe 5000
+Authenticated as senvee
+Forwarding activated...
+http://stripe.senvee.ultrahook.com -> http://localhost:5000
