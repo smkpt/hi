@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 this is ok1
+<<<<<<< HEAD
 New1 
 =======
 this is ok3
 
 New rebase 2
 >>>>>>> new test3
+=======
+New3
+>>>>>>> ok
